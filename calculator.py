@@ -16,4 +16,5 @@ def describe(a, b):
 
 
 def broken_total():
+    missing_total = 0
     return missing_total
